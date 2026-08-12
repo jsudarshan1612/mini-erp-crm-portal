@@ -220,3 +220,16 @@ The application is prepared for deployment on modern hosting platforms.
 ## Live Demo URLs
 
 https://drive.google.com/file/d/1-w952eV9PXqRCjzZo4rGhE9LH1rdTsLn/view?usp=drive_link
+
+# Mini ERP + CRM Operations Portal
+
+## 🚀 Live Demo
+
+**Frontend:**  
+https://mini-erp-crm-portal-drab.vercel.app
+
+**Backend API:**  
+https://mini-erp-crm-portal-8sgm.onrender.com
+
+**Health Check:**  
+https://mini-erp-crm-portal-8sgm.onrender.com/api/health
