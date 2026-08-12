@@ -207,6 +207,14 @@ The application is prepared for deployment on modern hosting platforms.
 ## Screenshots
 
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/c4e8c4fc-4e9d-42c5-9953-f5e75d9a56dc" />
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/35e8cee3-6bdd-4883-8f35-eb283f030296" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/536d5243-f759-47cd-8150-9ce811e3670a" />
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/9292e57e-7437-444c-bf95-8ddb673293ae" />
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/d98f8981-878a-4038-91aa-3b22a1a904d9" />
+
+
+
+
 
 
 ## Live Demo URLs
