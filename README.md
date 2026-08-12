@@ -206,8 +206,9 @@ The application is prepared for deployment on modern hosting platforms.
 
 ## Screenshots
 
-*(Placeholder for application screenshots, e.g., Dashboard, Customers Page, Challan Detail)*
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/c4e8c4fc-4e9d-42c5-9953-f5e75d9a56dc" />
+
 
 ## Live Demo URLs
 
-*(Placeholder for live demo URLs)*
+https://drive.google.com/file/d/1-w952eV9PXqRCjzZo4rGhE9LH1rdTsLn/view?usp=drive_link
